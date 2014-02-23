@@ -22,7 +22,7 @@
   "dependencies": {
     "node-static": "~0.7.3",
     "commander": "~2.1.0",
-    "in-a-storm": "0.0.1",
+    "in-a-storm": "~1.0.0",
     "open": "0.0.4"
   },
   "devDependencies": {
